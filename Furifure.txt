@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
-attack
+attacker
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vLvAkvbXHfH-HnHWHW0ZYsuS07qQ1HEWikuai2zw9aPPcnTlv3waPp4&s=10" group-title="LIVE EVENT", BRI LIGA 1
