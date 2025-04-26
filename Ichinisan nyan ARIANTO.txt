@@ -2102,6 +2102,31 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
