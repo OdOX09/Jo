@@ -2128,7 +2128,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-##http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 
@@ -2178,11 +2178,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vLvAkvbXHfH-HnHWHW0ZYsuS07qQ1HEWikuai2zw9aPPcnTlv3waPp4&s=10" group-title="LIVE EVENT", BRI LIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.3.10) Android
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#####http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="LIVE EVENT", MOJI TV
-http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
+#####http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vLvAkvbXHfH-HnHWHW0ZYsuS07qQ1HEWikuai2zw9aPPcnTlv3waPp4&s=10" group-title="LIVE EVENT & YTLIVE", BRI LIGA 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
